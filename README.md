@@ -12,7 +12,7 @@ Com a sua chave, basta substituir na variável `const API_KEY` no arquivo `src\m
 
 ## Uso da API
 
-Optei por salvar as duas últimas conversas da, e uma mensagem inicial pro sistema, nesse caso, "Você é um assistente útil", porém podemos usar outras frases para adaptar o ChatGPT para nos auxiliar, por exemplo:
+Optei por salvar as duas últimas perguntas e respostas feitas para o ChatGPT, e uma mensagem inicial pro sistema, nesse caso, "Você é um assistente útil", porém podemos usar outras frases para adaptar o ChatGPT para nos auxiliar, por exemplo:
 
 * "Você é um bot que só responde como se tivesse ensinando para uma criança"
 * "Você é um bot que responde tudo com emojis"
