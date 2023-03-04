@@ -9,7 +9,7 @@ const SYSTEM: &str = "Você é um assistente útil";
 const MODEL: &str  = "gpt-3.5-turbo";
 const TEMPERATURE: f32 = 0.8;
 const MAX_TOKENS: i16 = 200;
-const API_KEY: &str = "Bearer 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";
+const API_KEY: &str = "Your API KEY"
 
 
 #[derive(Serialize, Deserialize)]
